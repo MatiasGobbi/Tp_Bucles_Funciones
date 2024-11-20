@@ -9,7 +9,7 @@ Usa un bucle para calcular el salario de cada empleado (suponiendo una tarifa fi
 import java.util.Scanner;
 
 public class Ej2Bucles {
-    public static void main(String[]args){
+    public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese la cantidad de empleados: ");
@@ -24,6 +24,7 @@ public class Ej2Bucles {
             int horas_trabajadas = sc.nextInt();
             int salario = horas_trabajadas * tarifa_por_hora;
             System.out.println("El salario correspondiente al empleado " + i + " es: $" + salario);
+
         }
     }
 }
