@@ -1,5 +1,16 @@
 package Funciones;
 
+/*
+Ejercicio 2: Generar reportes de inventario
+Una tienda de electrónica necesita un informe del inventario, mostrando los productos
+ que tienen menos de 5 unidades en stock.
+
+**Instrucciones**:
+- Crea un arreglo `productos` que almacene los nombres de los productos y otro arreglo
+ `stocks` que almacene la cantidad de stock de cada producto.
+- Escribe una función `generarReporteBajoStock` que imprima los productos con menos de 5 unidades.
+*/
+
 import java.util.Scanner;
 
 public class Ej2Funciones {

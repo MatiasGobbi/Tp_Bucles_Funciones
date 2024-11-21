@@ -1,5 +1,17 @@
 package Funciones;
 
+/*
+ Ejercicio 3: Gestión de clientes
+Una pequeña empresa de servicios tiene una lista de clientes a los que debe enviar
+facturas, pero quiere procesar solo aquellos que tengan facturas pendientes por más de $500.
+
+**Instrucciones**:
+- Crea un arreglo `clientes` que almacene los nombres de los clientes y un arreglo
+`facturasPendientes` con el monto de sus facturas pendientes.
+- Escribe una función `enviarFacturas` que imprima los nombres de los clientes con
+facturas mayores a $500.
+*/
+
 import java.util.Scanner;
 
 public class Ej3Funciones {
