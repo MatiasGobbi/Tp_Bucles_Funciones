@@ -1,3 +1,4 @@
+package Iterativas;
 /*
 Ejercicio 5: Cálculo de horas extras
 Una empresa desea calcular las horas extras trabajadas por sus empleados. Si un empleado
@@ -23,7 +24,7 @@ public class Ej5Bucles {
             horas[i] = horas_trabajadas;
             if (horas[i] > 40){
                 int horas_extra = 40;
-                horas[i] = horas[i] - horas_extra;
+                horas[i] -= horas_extra;
                 System.out.println("Este empleado trabajó: " + horas[i] + " horas extra!");
             }
         }

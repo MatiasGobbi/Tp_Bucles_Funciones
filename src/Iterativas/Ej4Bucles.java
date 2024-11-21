@@ -1,3 +1,4 @@
+package Iterativas;
 /*
 Ejercicio 4: Registro de ventas diarias
 Una tienda desea registrar las ventas realizadas cada día durante una semana. El programa

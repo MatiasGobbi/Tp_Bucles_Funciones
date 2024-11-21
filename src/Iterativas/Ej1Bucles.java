@@ -1,3 +1,4 @@
+package Iterativas;
 /*
 Ejercicio 1: Cálculo del tiempo dedicado a cada actividad.
 Un alumno quiere medir el tiempo total que dedica a sus actividades académicas y personales durante el día.

@@ -1,3 +1,4 @@
+package Iterativas;
 /*
 Ejercicio 3: Control de inventario
 Una tienda necesita revisar el inventario de sus productos y determinar si algún artículo tiene

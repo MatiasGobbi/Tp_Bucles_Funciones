@@ -1,3 +1,4 @@
+package Iterativas;
 /*
 Una empresa desea calcular el salario semanal de sus empleados basándose en las horas trabajadas y una tarifa fija por hora.
 Instrucciones:
